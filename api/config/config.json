@@ -1,0 +1,28 @@
+{
+  "test": {
+    "PORT": "3030",
+    "MONGO_AUTH_TESTER":
+      "mongodb://marcus:wash1440@ds123956.mlab.com:23956/hackhive_auth_server",
+    "MONGODB_URI":
+      "mongodb://hackHiveMain:Cali1440@ds113086-a0.mlab.com:13086,ds113086-a1.mlab.com:13086/hackhivedb?replicaSet=rs-ds113086",
+    "JWT_SECRET": "nameduorenxihuanchiwodefan90",
+    "SEND_USER": "marcushurney",
+    "SEND_PASS": "shandonghuapp2",
+    "MAILGUN_USERNAME":
+      "postmaster@sandbox67c118365e564798a8864434e4b2a3cb.mailgun.org",
+    "MAILGUN_PASSWORD": "ed49d942fd9e6c11208ee3aacb29df9d"
+  },
+  "development": {
+    "PORT": "3030",
+    "MONGO_AUTH_TESTER":
+      "mongodb://marcus:wash1440@ds123956.mlab.com:23956/hackhive_auth_server",
+    "MONGODB_URI":
+      "mongodb://hackHiveMain:Cali1440@ds113086-a0.mlab.com:13086,ds113086-a1.mlab.com:13086/hackhivedb?replicaSet=rs-ds113086",
+    "JWT_SECRET": "nameduorenxihuanchiwodefan90",
+    "SEND_USER": "marcushurney",
+    "SEND_PASS": "shandonghuapp2",
+    "MAILGUN_USERNAME":
+      "postmaster@sandbox67c118365e564798a8864434e4b2a3cb.mailgun.org",
+    "MAILGUN_PASSWORD": "ed49d942fd9e6c11208ee3aacb29df9d"
+  }
+}
