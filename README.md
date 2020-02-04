@@ -1,2 +1,2 @@
-# HackHiveAPI
-The Hack Hive API to service the web app.
+# Authentication API
+Authentication API for user login and email confirmation
